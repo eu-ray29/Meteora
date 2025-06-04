@@ -1,4 +1,4 @@
-# Projeto Loja Meteora
+# Meteora
 
 Este projeto é uma interface de e-commerce responsiva para a fictícia **Loja Meteora**, desenvolvido com HTML5, Bootstrap 5 e CSS. O foco é apresentar produtos de forma elegante e intuitiva, com um layout que se adapta a diferentes tamanhos de tela (mobile, tablet e desktop).
 
